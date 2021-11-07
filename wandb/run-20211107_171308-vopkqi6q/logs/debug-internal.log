@@ -1,0 +1,6 @@
+2021-11-07 17:13:16,213 INFO    MainThread:8084 [internal.py:wandb_internal():87] W&B internal server running at pid: 8084, started at: 2021-11-07 17:13:16.212115
+2021-11-07 17:13:16,216 INFO    WriterThread:8084 [datastore.py:open_for_write():77] open: c:\Users\Hend El Sobky\OneDrive\Documents\OMAR TUM\Praktikum\First Block\Homework\wandb\run-20211107_171308-vopkqi6q\run-vopkqi6q.wandb
+2021-11-07 17:13:16,216 DEBUG   HandlerThread:8084 [handler.py:handle_request():130] handle_request: check_version
+2021-11-07 17:13:16,219 DEBUG   SenderThread:8084 [sender.py:send():238] send: header
+2021-11-07 17:13:16,220 DEBUG   SenderThread:8084 [sender.py:send_request():252] send_request: check_version
+2021-11-07 17:13:16,457 DEBUG   SenderThread:8084 [sender.py:send():238] send: run

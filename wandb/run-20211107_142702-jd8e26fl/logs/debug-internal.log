@@ -1,0 +1,11 @@
+2021-11-07 14:27:06,506 INFO    MainThread:11096 [internal.py:wandb_internal():87] W&B internal server running at pid: 11096, started at: 2021-11-07 14:27:06.504305
+2021-11-07 14:27:06,508 INFO    WriterThread:11096 [datastore.py:open_for_write():77] open: c:\Users\Hend El Sobky\OneDrive\Documents\OMAR TUM\Praktikum\First Block\Homework\wandb\run-20211107_142702-jd8e26fl\run-jd8e26fl.wandb
+2021-11-07 14:27:06,509 DEBUG   HandlerThread:11096 [handler.py:handle_request():130] handle_request: check_version
+2021-11-07 14:27:06,511 DEBUG   SenderThread:11096 [sender.py:send():238] send: header
+2021-11-07 14:27:06,512 DEBUG   SenderThread:11096 [sender.py:send_request():252] send_request: check_version
+2021-11-07 16:38:17,376 WARNING MainThread:11096 [internal.py:is_dead():366] Internal process exiting, parent pid 12328 disappeared
+2021-11-07 16:38:17,383 ERROR   MainThread:11096 [internal.py:wandb_internal():142] Internal process shutdown.
+2021-11-07 16:38:17,682 INFO    SenderThread:11096 [sender.py:finish():1091] shutting down sender
+2021-11-07 16:38:17,871 INFO    HandlerThread:11096 [handler.py:finish():731] shutting down handler
+2021-11-07 16:38:18,046 INFO    WriterThread:11096 [datastore.py:close():281] close: c:\Users\Hend El Sobky\OneDrive\Documents\OMAR TUM\Praktikum\First Block\Homework\wandb\run-20211107_142702-jd8e26fl\run-jd8e26fl.wandb
+2021-11-07 16:38:18,052 INFO    MainThread:11096 [internal.py:handle_exit():77] Internal process exited

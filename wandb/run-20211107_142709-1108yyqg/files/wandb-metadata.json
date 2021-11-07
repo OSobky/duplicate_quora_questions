@@ -1,0 +1,34 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.8",
+    "heartbeatAt": "2021-11-07T12:27:13.138935",
+    "startedAt": "2021-11-07T12:27:09.177043",
+    "docker": null,
+    "gpu": "GeForce 930MX",
+    "gpu_count": 1,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "--ip=127.0.0.1",
+        "--stdin=9003",
+        "--control=9001",
+        "--hb=9000",
+        "--Session.signature_scheme=\"hmac-sha256\"",
+        "--Session.key=b\"9cd2baa0-5b1c-4fe0-b938-0ea1d85e003d\"",
+        "--shell=9002",
+        "--transport=\"tcp\"",
+        "--iopub=9004",
+        "--f=C:\\Users\\HENDEL~1\\AppData\\Local\\Temp\\tmp-2668xb18kd3ZQxbg.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/OSobky/duplicate_quora_questions.git",
+        "commit": "3e9a858d7df8edb6bf1327935c670f992e4a1e68"
+    },
+    "email": "omar_sobky@hotmail.com",
+    "root": "C:/Users/Hend El Sobky/OneDrive/Documents/OMAR TUM/Praktikum/First Block/Homework",
+    "host": "DESKTOP-7VDIJ08",
+    "username": "Hend El Sobky",
+    "executable": "C:\\Users\\Hend El Sobky\\anaconda3\\envs\\pytorch\\python.exe"
+}

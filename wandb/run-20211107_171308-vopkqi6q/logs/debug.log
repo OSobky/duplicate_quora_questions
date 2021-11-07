@@ -1,0 +1,12 @@
+2021-11-07 17:13:08,886 INFO    MainThread:6796 [wandb_setup.py:_flush():71] setting env: {}
+2021-11-07 17:13:08,886 INFO    MainThread:6796 [wandb_setup.py:_flush():71] setting login settings: {}
+2021-11-07 17:13:08,887 INFO    MainThread:6796 [wandb_init.py:_log_setup():357] Logging user logs to c:\Users\Hend El Sobky\OneDrive\Documents\OMAR TUM\Praktikum\First Block\Homework\wandb\run-20211107_171308-vopkqi6q\logs\debug.log
+2021-11-07 17:13:08,888 INFO    MainThread:6796 [wandb_init.py:_log_setup():358] Logging internal logs to c:\Users\Hend El Sobky\OneDrive\Documents\OMAR TUM\Praktikum\First Block\Homework\wandb\run-20211107_171308-vopkqi6q\logs\debug-internal.log
+2021-11-07 17:13:08,888 INFO    MainThread:6796 [wandb_init.py:_jupyter_setup():307] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x00000280DDF03940>
+2021-11-07 17:13:08,889 INFO    MainThread:6796 [wandb_init.py:init():390] calling init triggers
+2021-11-07 17:13:08,889 INFO    MainThread:6796 [wandb_init.py:init():395] wandb.init called with sweep_config: {}
+config: {}
+2021-11-07 17:13:08,889 INFO    MainThread:6796 [wandb_init.py:init():410] re-initializing run, found existing run on stack: ckty0lsx
+2021-11-07 17:13:08,890 INFO    MainThread:6796 [wandb_run.py:finish():1347] finishing run osobky/dup-questions-project/ckty0lsx
+2021-11-07 17:13:08,891 INFO    MainThread:6796 [wandb_run.py:_atexit_cleanup():1663] got exitcode: 0
+2021-11-07 17:13:08,892 INFO    MainThread:6796 [wandb_run.py:_restore():1635] restore

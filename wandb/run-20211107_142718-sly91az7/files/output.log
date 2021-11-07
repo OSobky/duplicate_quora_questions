@@ -1,0 +1,203 @@
+
+TRAIN[steps=100] loss=0.149428 acc=0.938 P=0.963 R=0.897 F1=0.928571
+DEV[steps=100] loss=0.014695 acc=0.699 P=0.690 R=0.681 F1=0.685726 *
+TRAIN[steps=100] loss=0.108714 acc=0.984 P=0.968 R=1.000 F1=0.983607
+DEV[steps=100] loss=0.014538 acc=0.701 P=0.702 R=0.658 F1=0.679330 *
+TRAIN[steps=200] loss=0.163648 acc=0.969 P=0.964 R=0.964 F1=0.964286
+DEV[steps=200] loss=0.014264 acc=0.699 P=0.686 R=0.691 F1=0.688640 *
+TRAIN[steps=300] loss=0.185632 acc=0.922 P=0.906 R=0.935 F1=0.920635
+DEV[steps=300] loss=0.014226 acc=0.697 P=0.689 R=0.678 F1=0.683162
+TRAIN[steps=400] loss=0.155723 acc=0.938 P=0.900 R=0.964 F1=0.931035
+DEV[steps=400] loss=0.013887 acc=0.695 P=0.664 R=0.742 F1=0.701110 *
+TRAIN[steps=500] loss=0.087179 acc=1.000 P=1.000 R=1.000 F1=1.000000
+DEV[steps=500] loss=0.013774 acc=0.697 P=0.673 R=0.720 F1=0.695670
+TRAIN[steps=600] loss=0.166287 acc=0.938 P=0.903 R=0.966 F1=0.933333
+DEV[steps=600] loss=0.014046 acc=0.698 P=0.679 R=0.707 F1=0.692676
+TRAIN[steps=100] loss=0.118836 acc=0.953 P=0.955 R=0.913 F1=0.933333
+DEV[steps=100] loss=0.013832 acc=0.697 P=0.676 R=0.709 F1=0.692198 *
+TRAIN[steps=200] loss=0.212292 acc=0.953 P=0.970 R=0.941 F1=0.955224
+DEV[steps=200] loss=0.013798 acc=0.696 P=0.668 R=0.736 F1=0.699921 *
+TRAIN[steps=300] loss=0.115150 acc=0.953 P=0.939 R=0.969 F1=0.953846
+DEV[steps=300] loss=0.013906 acc=0.697 P=0.679 R=0.703 F1=0.690995
+TRAIN[steps=400] loss=0.145389 acc=0.953 P=0.950 R=0.974 F1=0.962025
+DEV[steps=400] loss=0.013705 acc=0.698 P=0.671 R=0.728 F1=0.698543
+TRAIN[steps=500] loss=0.153921 acc=0.938 P=0.895 R=1.000 F1=0.944444
+DEV[steps=500] loss=0.013851 acc=0.698 P=0.669 R=0.738 F1=0.702147 *
+TRAIN[steps=600] loss=0.154111 acc=0.938 P=0.923 R=0.923 F1=0.923077
+DEV[steps=600] loss=0.014075 acc=0.698 P=0.697 R=0.658 F1=0.676946
+TRAIN[steps=700] loss=0.105631 acc=0.969 P=0.970 R=0.970 F1=0.969697
+DEV[steps=700] loss=0.013530 acc=0.697 P=0.670 R=0.730 F1=0.698846
+TRAIN[steps=800] loss=0.198765 acc=0.922 P=0.857 R=0.960 F1=0.905660
+DEV[steps=800] loss=0.013410 acc=0.697 P=0.683 R=0.693 F1=0.687526
+TRAIN[steps=900] loss=0.356962 acc=0.953 P=0.971 R=0.943 F1=0.956522
+DEV[steps=900] loss=0.013330 acc=0.697 P=0.670 R=0.729 F1=0.698346
+TRAIN[steps=1000] loss=0.207998 acc=0.938 P=0.926 R=0.926 F1=0.925926
+DEV[steps=1000] loss=0.013779 acc=0.698 P=0.696 R=0.662 F1=0.678530
+TRAIN[steps=1100] loss=0.133786 acc=0.953 P=0.968 R=0.938 F1=0.952381
+DEV[steps=1100] loss=0.013661 acc=0.699 P=0.691 R=0.677 F1=0.683757
+TRAIN[steps=1200] loss=0.207736 acc=0.906 P=0.806 R=1.000 F1=0.892857
+DEV[steps=1200] loss=0.013044 acc=0.697 P=0.671 R=0.728 F1=0.698134
+TRAIN[steps=1300] loss=0.170925 acc=0.953 P=0.968 R=0.938 F1=0.952381
+DEV[steps=1300] loss=0.013241 acc=0.698 P=0.675 R=0.719 F1=0.696405
+TRAIN[steps=1400] loss=0.257135 acc=0.922 P=0.889 R=0.923 F1=0.905660
+DEV[steps=1400] loss=0.013333 acc=0.696 P=0.679 R=0.700 F1=0.689126
+TRAIN[steps=1500] loss=0.155171 acc=0.922 P=0.935 R=0.906 F1=0.920635
+DEV[steps=1500] loss=0.013025 acc=0.697 P=0.677 R=0.709 F1=0.692401
+TRAIN[steps=1600] loss=0.142291 acc=0.938 P=0.917 R=0.917 F1=0.916667
+DEV[steps=1600] loss=0.013418 acc=0.698 P=0.690 R=0.675 F1=0.682578
+TRAIN[steps=1700] loss=0.186493 acc=0.938 P=0.923 R=0.923 F1=0.923077
+DEV[steps=1700] loss=0.013101 acc=0.697 P=0.679 R=0.703 F1=0.691058
+TRAIN[steps=1800] loss=0.126734 acc=0.969 P=1.000 R=0.941 F1=0.969697
+DEV[steps=1800] loss=0.013016 acc=0.696 P=0.681 R=0.694 F1=0.687275
+TRAIN[steps=1900] loss=0.138941 acc=0.922 P=0.875 R=0.913 F1=0.893617
+DEV[steps=1900] loss=0.013335 acc=0.697 P=0.698 R=0.654 F1=0.675046
+TRAIN[steps=2000] loss=0.171192 acc=0.953 P=0.903 R=1.000 F1=0.949153
+DEV[steps=2000] loss=0.012902 acc=0.696 P=0.688 R=0.674 F1=0.680753
+TRAIN[steps=2100] loss=0.259450 acc=0.906 P=0.968 R=0.857 F1=0.909091
+DEV[steps=2100] loss=0.012874 acc=0.695 P=0.684 R=0.680 F1=0.682031
+TRAIN[steps=2200] loss=0.217817 acc=0.906 P=0.892 R=0.943 F1=0.916667
+DEV[steps=2200] loss=0.012818 acc=0.696 P=0.677 R=0.703 F1=0.689733
+TRAIN[steps=2300] loss=0.146557 acc=0.984 P=1.000 R=0.964 F1=0.981818
+DEV[steps=2300] loss=0.012842 acc=0.699 P=0.685 R=0.693 F1=0.688942
+TRAIN[steps=2400] loss=0.164259 acc=0.922 P=0.941 R=0.914 F1=0.927536
+DEV[steps=2400] loss=0.012879 acc=0.696 P=0.665 R=0.743 F1=0.701847
+TRAIN[steps=2500] loss=0.150419 acc=0.953 P=0.968 R=0.938 F1=0.952381
+DEV[steps=2500] loss=0.013211 acc=0.694 P=0.704 R=0.629 F1=0.664542
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+No improvement for a long time, early-stopping at best F1=0.702146589756012
+question1    0
+question2    0
+label        0
+dtype: int64
+(1, 3)
+question1    0
+question2    0
+label        0
+dtype: int64
+[nltk_data] Error loading punkt: <urlopen error [Errno 11001]
+[nltk_data]     getaddrinfo failed>
+[nltk_data] Error loading stopwords: <urlopen error [Errno 11001]
+[nltk_data]     getaddrinfo failed>
+in preapare data  (1, 3)
+0
+q1 shape: torch.Size([1, 11, 300])
+q2 shape: torch.Size([1, 11, 300])
+labels shape: torch.Size([1])
+tensor([[-0.0231,  0.1533,  0.1523,  ...,  0.1445,  0.1328, -0.0859],
+        [ 0.0269, -0.0762,  0.0270,  ..., -0.0165, -0.2197,  0.0757],
+        [ 0.1523,  0.2949, -0.0009,  ...,  0.1680, -0.0139,  0.1826],
+        ...,
+        [ 0.0000,  0.0000,  0.0000,  ...,  0.0000,  0.0000,  0.0000],
+        [ 0.0000,  0.0000,  0.0000,  ...,  0.0000,  0.0000,  0.0000],
+        [ 0.0000,  0.0000,  0.0000,  ...,  0.0000,  0.0000,  0.0000]],
+       dtype=torch.float64)
+[nltk_data] Downloading package punkt to C:\Users\Hend El
+[nltk_data]     Sobky\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package stopwords to C:\Users\Hend El
+[nltk_data]     Sobky\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+in preapare data  (1, 3)
+0
+q1 shape: torch.Size([1, 11, 300])
+q2 shape: torch.Size([1, 11, 300])
+labels shape: torch.Size([1])
+in preapare data  (1, 3)
+0
+q1 shape: torch.Size([1, 11, 300])
+q2 shape: torch.Size([1, 11, 300])
+labels shape: torch.Size([1])
