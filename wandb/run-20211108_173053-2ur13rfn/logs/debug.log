@@ -1,0 +1,14 @@
+2021-11-08 17:30:53,345 INFO    MainThread:22572 [wandb_setup.py:_flush():71] setting env: {}
+2021-11-08 17:30:53,345 INFO    MainThread:22572 [wandb_setup.py:_flush():71] setting login settings: {}
+2021-11-08 17:30:53,345 INFO    MainThread:22572 [wandb_init.py:_log_setup():357] Logging user logs to d:\Omar El-Sobky\Doc\TUM\Semester 3\Practikum IBM\First Block\Homework\wandb\run-20211108_173053-2ur13rfn\logs\debug.log
+2021-11-08 17:30:53,346 INFO    MainThread:22572 [wandb_init.py:_log_setup():358] Logging internal logs to d:\Omar El-Sobky\Doc\TUM\Semester 3\Practikum IBM\First Block\Homework\wandb\run-20211108_173053-2ur13rfn\logs\debug-internal.log
+2021-11-08 17:30:53,346 INFO    MainThread:22572 [wandb_init.py:init():390] calling init triggers
+2021-11-08 17:30:53,346 INFO    MainThread:22572 [wandb_init.py:init():397] wandb.init called with sweep_config: {}
+config: {}
+2021-11-08 17:30:53,347 INFO    MainThread:22572 [wandb_init.py:init():412] re-initializing run, found existing run on stack: 1xosdijl
+2021-11-08 17:30:53,349 INFO    MainThread:22572 [wandb_run.py:finish():1347] finishing run osobky/dup-questions-project/1xosdijl
+2021-11-08 17:30:53,349 INFO    MainThread:22572 [jupyter.py:save_history():429] not saving jupyter history
+2021-11-08 17:30:53,349 INFO    MainThread:22572 [jupyter.py:save_ipynb():374] not saving jupyter notebook
+2021-11-08 17:30:53,349 INFO    MainThread:22572 [wandb_init.py:_jupyter_teardown():289] cleaning up jupyter logic
+2021-11-08 17:30:53,350 INFO    MainThread:22572 [wandb_run.py:_atexit_cleanup():1663] got exitcode: 0
+2021-11-08 17:30:53,350 INFO    MainThread:22572 [wandb_run.py:_restore():1635] restore

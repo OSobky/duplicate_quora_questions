@@ -1,0 +1,6 @@
+2021-11-08 17:31:00,704 INFO    MainThread:2096 [internal.py:wandb_internal():90] W&B internal server running at pid: 2096, started at: 2021-11-08 17:31:00.704123
+2021-11-08 17:31:00,706 INFO    WriterThread:2096 [datastore.py:open_for_write():77] open: d:\Omar El-Sobky\Doc\TUM\Semester 3\Practikum IBM\First Block\Homework\wandb\run-20211108_173053-2ur13rfn\run-2ur13rfn.wandb
+2021-11-08 17:31:00,706 DEBUG   HandlerThread:2096 [handler.py:handle_request():130] handle_request: check_version
+2021-11-08 17:31:00,709 DEBUG   SenderThread:2096 [sender.py:send():238] send: header
+2021-11-08 17:31:00,709 DEBUG   SenderThread:2096 [sender.py:send_request():252] send_request: check_version
+2021-11-08 17:31:00,795 DEBUG   SenderThread:2096 [sender.py:send():238] send: run

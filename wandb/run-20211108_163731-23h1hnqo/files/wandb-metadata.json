@@ -1,0 +1,34 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.7.6",
+    "heartbeatAt": "2021-11-08T15:37:39.749331",
+    "startedAt": "2021-11-08T15:37:31.320048",
+    "docker": null,
+    "gpu": "GeForce GTX 1060",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "--ip=127.0.0.1",
+        "--stdin=9008",
+        "--control=9006",
+        "--hb=9005",
+        "--Session.signature_scheme=\"hmac-sha256\"",
+        "--Session.key=b\"094bd34d-2763-402f-9f5f-79f3fd7604d4\"",
+        "--shell=9007",
+        "--transport=\"tcp\"",
+        "--iopub=9009",
+        "--f=C:\\Users\\OMAREL~1\\AppData\\Local\\Temp\\tmp-16280ytOXiBQ06pXx.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/OSobky/duplicate_quora_questions.git",
+        "commit": "44f7e264355d5ff8e1e260f7661faf7f12861267"
+    },
+    "email": "Omar_sobky@hotmail.com",
+    "root": "d:/Omar El-Sobky/Doc/TUM/Semester 3/Practikum IBM/First Block/Homework",
+    "host": "LAPTOP-TF5NEH86",
+    "username": "Omar El-Sobky",
+    "executable": "C:\\Users\\Omar El-Sobky\\anaconda3\\python.exe"
+}
